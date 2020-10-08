@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\temp\F78539\F78539\playground\AutoTest\AutoTest\obj\Release\Package\PackageTmp" />
+  <setAcl path="D:\temp\F78539\F78539\playground\AutoTest\AutoTest\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\temp\F78539\F78539\playground\AutoTest\AutoTest\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
